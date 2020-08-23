@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    color: #d0d0d0;
+    background-color: #151515;
+    padding: 12px;
+    padding-left: 7px;
+}
+
+.header-entry {
+    color: #d0d0d0;
+    padding: 5px;
+}
+
+.greeter {
+    margin-left: 12px;
+    margin-block-start: 12px;
+    margin-block-end: 0px;
+    color: #d0d0d0;
+}

@@ -1,0 +1,59 @@
+body {
+    background-color: #414141;
+    text-align: left;
+}
+
+.select {
+    color: #b0b0b0;
+    background-color: #252525;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 6px;
+}
+
+.ui {
+    margin-right: 6px;
+}
+
+.description-text {
+    color: #d0d0d0;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.ini {
+    width: 300px;
+    color: #d0d0d0;
+    background-color: #151515;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    margin-right: 12px;
+}
+
+.ini-top-div {
+    padding-top: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.ini-middle-div {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.ini-bottom-div {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 7px;
+}
+
+.codewindow {
+    width: 720px;
+    color: #d0d0d0;
+    background-color: #151515;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
